@@ -1,0 +1,582 @@
+{
+  "slug": "conociendo-rusia-cicatriz",
+  "artist": "Conociendo Rusia",
+  "title": "Cicatriz",
+  "audio": "audio/conociendo-rusia-cicatriz.mp3",
+  "sync": "word",
+  "source": "whisperx-forced-alignment+lyrics-reconciliation",
+  "lines": [
+    {
+      "time": 25.24,
+      "text": "Solo en un rincón olvidándote",
+      "words": [
+        {
+          "time": 25.24,
+          "text": "Solo"
+        },
+        {
+          "time": 27.11,
+          "text": "en"
+        },
+        {
+          "time": 27.16,
+          "text": "un"
+        },
+        {
+          "time": 27.23,
+          "text": "rincón"
+        },
+        {
+          "time": 31.81,
+          "text": "olvidándote"
+        }
+      ]
+    },
+    {
+      "time": 38.06,
+      "text": "Tonta decisión ya tengo algo de vos",
+      "words": [
+        {
+          "time": 38.06,
+          "text": "Tonta"
+        },
+        {
+          "time": 38.66,
+          "text": "decisión"
+        },
+        {
+          "time": 42.61,
+          "text": "ya"
+        },
+        {
+          "time": 42.83,
+          "text": "tengo"
+        },
+        {
+          "time": 43.29,
+          "text": "algo"
+        },
+        {
+          "time": 43.61,
+          "text": "de"
+        },
+        {
+          "time": 44.05,
+          "text": "vos"
+        }
+      ]
+    },
+    {
+      "time": 50.72,
+      "text": "Trate de cortar partes de tu piel (uhhh)",
+      "words": [
+        {
+          "time": 50.72,
+          "text": "Trate"
+        },
+        {
+          "time": 51.2,
+          "text": "de"
+        },
+        {
+          "time": 52.46,
+          "text": "cortar"
+        },
+        {
+          "time": 56.9,
+          "text": "partes"
+        },
+        {
+          "time": 57.62,
+          "text": "de"
+        },
+        {
+          "time": 58.76,
+          "text": "tu"
+        },
+        {
+          "time": 62.77,
+          "text": "piel"
+        },
+        {
+          "time": 63.25,
+          "text": "(uhhh)"
+        }
+      ]
+    },
+    {
+      "time": 63.37,
+      "text": "Cuantas veces mas pequeño lazo de cristal (uhhh)",
+      "words": [
+        {
+          "time": 63.37,
+          "text": "Cuantas"
+        },
+        {
+          "time": 64.03,
+          "text": "veces"
+        },
+        {
+          "time": 65.35,
+          "text": "mas"
+        },
+        {
+          "time": 67.9,
+          "text": "pequeño"
+        },
+        {
+          "time": 68.48,
+          "text": "lazo"
+        },
+        {
+          "time": 68.9,
+          "text": "de"
+        },
+        {
+          "time": 69.22,
+          "text": "cristal"
+        },
+        {
+          "time": 76.23,
+          "text": "(uhhh)"
+        }
+      ]
+    },
+    {
+      "time": 77.89,
+      "text": "Quiero recorrer todo al revés",
+      "words": [
+        {
+          "time": 77.89,
+          "text": "Quiero"
+        },
+        {
+          "time": 78.57,
+          "text": "recorrer"
+        },
+        {
+          "time": 80.02,
+          "text": "todo"
+        },
+        {
+          "time": 82.92,
+          "text": "al"
+        },
+        {
+          "time": 82.98,
+          "text": "revés"
+        }
+      ]
+    },
+    {
+      "time": 84.17,
+      "text": "Para devolverte tu papel",
+      "words": [
+        {
+          "time": 84.17,
+          "text": "Para"
+        },
+        {
+          "time": 85.07,
+          "text": "devolverte"
+        },
+        {
+          "time": 87.03,
+          "text": "tu"
+        },
+        {
+          "time": 88.13,
+          "text": "papel"
+        }
+      ]
+    },
+    {
+      "time": 90.46,
+      "text": "Y el tiempo de nuevo",
+      "words": [
+        {
+          "time": 90.46,
+          "text": "Y"
+        },
+        {
+          "time": 90.5,
+          "text": "el"
+        },
+        {
+          "time": 97.48,
+          "text": "tiempo"
+        },
+        {
+          "time": 97.62,
+          "text": "de"
+        },
+        {
+          "time": 101.13,
+          "text": "nuevo"
+        }
+      ]
+    },
+    {
+      "time": 101.25,
+      "text": "Hoy mi celular desaparecio",
+      "words": [
+        {
+          "time": 101.25,
+          "text": "Hoy"
+        },
+        {
+          "time": 101.51,
+          "text": "mi"
+        },
+        {
+          "time": 101.89,
+          "text": "celular"
+        },
+        {
+          "time": 107.61,
+          "text": "desaparecio"
+        }
+      ]
+    },
+    {
+      "time": 113.19,
+      "text": "Y ya no queda nada para hacerme mal",
+      "words": [
+        {
+          "time": 113.19,
+          "text": "Y"
+        },
+        {
+          "time": 113.4,
+          "text": "ya"
+        },
+        {
+          "time": 113.64,
+          "text": "no"
+        },
+        {
+          "time": 113.82,
+          "text": "queda"
+        },
+        {
+          "time": 114.24,
+          "text": "nada"
+        },
+        {
+          "time": 115.06,
+          "text": "para"
+        },
+        {
+          "time": 115.88,
+          "text": "hacerme"
+        },
+        {
+          "time": 116.6,
+          "text": "mal"
+        }
+      ]
+    },
+    {
+      "time": 116.94,
+      "text": "Y nada que me aleje de mi cicatriz (uhhh)",
+      "words": [
+        {
+          "time": 116.94,
+          "text": "Y"
+        },
+        {
+          "time": 117.33,
+          "text": "nada"
+        },
+        {
+          "time": 118.65,
+          "text": "que"
+        },
+        {
+          "time": 118.77,
+          "text": "me"
+        },
+        {
+          "time": 118.91,
+          "text": "aleje"
+        },
+        {
+          "time": 120.36,
+          "text": "de"
+        },
+        {
+          "time": 120.42,
+          "text": "mi"
+        },
+        {
+          "time": 120.78,
+          "text": "cicatriz"
+        },
+        {
+          "time": 127.15,
+          "text": "(uhhh)"
+        }
+      ]
+    },
+    {
+      "time": 128.42,
+      "text": "Cuanto tiempo mas voy a mentir",
+      "words": [
+        {
+          "time": 128.42,
+          "text": "Cuanto"
+        },
+        {
+          "time": 129.48,
+          "text": "tiempo"
+        },
+        {
+          "time": 131.18,
+          "text": "mas"
+        },
+        {
+          "time": 131.26,
+          "text": "voy"
+        },
+        {
+          "time": 131.34,
+          "text": "a"
+        },
+        {
+          "time": 132.52,
+          "text": "mentir"
+        }
+      ]
+    },
+    {
+      "time": 134.73,
+      "text": "Ya no quiero subsistir asi",
+      "words": [
+        {
+          "time": 134.73,
+          "text": "Ya"
+        },
+        {
+          "time": 135.17,
+          "text": "no"
+        },
+        {
+          "time": 135.55,
+          "text": "quiero"
+        },
+        {
+          "time": 136.35,
+          "text": "subsistir"
+        },
+        {
+          "time": 138.77,
+          "text": "asi"
+        }
+      ]
+    },
+    {
+      "time": 141.04,
+      "text": "Y nada me calma (ohhh)",
+      "words": [
+        {
+          "time": 141.04,
+          "text": "Y"
+        },
+        {
+          "time": 141.08,
+          "text": "nada"
+        },
+        {
+          "time": 144.06,
+          "text": "me"
+        },
+        {
+          "time": 144.2,
+          "text": "calma"
+        },
+        {
+          "time": 147.31,
+          "text": "(ohhh)"
+        }
+      ]
+    },
+    {
+      "time": 153.54,
+      "text": "Quiero recorrer todo al revez",
+      "words": [
+        {
+          "time": 153.54,
+          "text": "Quiero"
+        },
+        {
+          "time": 154.56,
+          "text": "recorrer"
+        },
+        {
+          "time": 156.07,
+          "text": "todo"
+        },
+        {
+          "time": 157.06,
+          "text": "al"
+        },
+        {
+          "time": 158.05,
+          "text": "revez"
+        }
+      ]
+    },
+    {
+      "time": 160.03,
+      "text": "Para devolverte tu papel",
+      "words": [
+        {
+          "time": 160.03,
+          "text": "Para"
+        },
+        {
+          "time": 160.82,
+          "text": "devolverte"
+        },
+        {
+          "time": 162.78,
+          "text": "tu"
+        },
+        {
+          "time": 164.28,
+          "text": "papel"
+        }
+      ]
+    },
+    {
+      "time": 166.15,
+      "text": "Y el tiempo de nuevo",
+      "words": [
+        {
+          "time": 166.15,
+          "text": "Y"
+        },
+        {
+          "time": 166.19,
+          "text": "el"
+        },
+        {
+          "time": 166.33,
+          "text": "tiempo"
+        },
+        {
+          "time": 169.23,
+          "text": "de"
+        },
+        {
+          "time": 169.59,
+          "text": "nuevo"
+        }
+      ]
+    },
+    {
+      "time": 204.1,
+      "text": "Quiero recorrer todo al revez",
+      "words": [
+        {
+          "time": 204.1,
+          "text": "Quiero"
+        },
+        {
+          "time": 205.04,
+          "text": "recorrer"
+        },
+        {
+          "time": 206.64,
+          "text": "todo"
+        },
+        {
+          "time": 209.39,
+          "text": "al"
+        },
+        {
+          "time": 209.43,
+          "text": "revez"
+        }
+      ]
+    },
+    {
+      "time": 210.61,
+      "text": "Para devolverte tu papel",
+      "words": [
+        {
+          "time": 210.61,
+          "text": "Para"
+        },
+        {
+          "time": 211.73,
+          "text": "devolverte"
+        },
+        {
+          "time": 213.34,
+          "text": "tu"
+        },
+        {
+          "time": 214.94,
+          "text": "papel"
+        }
+      ]
+    },
+    {
+      "time": 216.66,
+      "text": "Y el tiempo de nuevo (uhhh)",
+      "words": [
+        {
+          "time": 216.66,
+          "text": "Y"
+        },
+        {
+          "time": 216.7,
+          "text": "el"
+        },
+        {
+          "time": 216.88,
+          "text": "tiempo"
+        },
+        {
+          "time": 227.02,
+          "text": "de"
+        },
+        {
+          "time": 229.12,
+          "text": "nuevo"
+        },
+        {
+          "time": 229.28,
+          "text": "(uhhh)"
+        }
+      ]
+    },
+    {
+      "time": 229.3,
+      "text": "Y el tiempo de nuevo",
+      "words": [
+        {
+          "time": 229.3,
+          "text": "Y"
+        },
+        {
+          "time": 229.34,
+          "text": "el"
+        },
+        {
+          "time": 229.5,
+          "text": "tiempo"
+        },
+        {
+          "time": 230.88,
+          "text": "de"
+        },
+        {
+          "time": 233.18,
+          "text": "nuevo"
+        }
+      ]
+    }
+  ]
+}
