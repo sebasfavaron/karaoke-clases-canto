@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Karaoke — Clases de Canto</title>
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+  <header>
+    <h1>Karaoke — Clases de Canto</h1>
+    <p class="subtitle">Pistas instrumentales con letra, para el salón</p>
+  </header>
+  <main>
+    <ul id="song-list" class="song-list"></ul>
+  </main>
+  <script src="assets/app.js"></script>
+  <script>
+    fetch('data/songs.json')
+      .then(r => r.json())
+      .then(songs => {
+        const list = document.getElementById('song-list');
+        songs.forEach(s => {
+          const li = document.createElement('li');
+          const a = document.createElement('a');
+          a.href = `song.html?slug=${encodeURIComponent(s.slug)}`;
+          a.className = 'song-link';
+          const badge = s.sync === 'line' ? '<span class="badge badge-line">letra sincronizada</span>'
+                      : s.sync === 'word' ? '<span class="badge badge-word">karaoke palabra x palabra</span>'
+                      : '<span class="badge badge-none">sin letra sincronizada</span>';
+          a.innerHTML = `<span class="song-title">${s.title}</span><span class="song-artist">${s.artist || 'artista sin confirmar'}</span>${badge}`;
+          li.appendChild(a);
+          list.appendChild(li);
+        });
+      });
+  </script>
+</body>
+</html>

@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Karaoke</title>
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body class="song-page">
+  <header>
+    <a href="index.html" class="back-link">&larr; Todas las canciones</a>
+    <h1 id="song-title">Cargando…</h1>
+    <p id="song-artist" class="subtitle"></p>
+  </header>
+  <main>
+    <div id="lyrics" class="lyrics"></div>
+    <div class="player-bar">
+      <audio id="audio" controls preload="metadata"></audio>
+    </div>
+  </main>
+  <script src="assets/app.js"></script>
+</body>
+</html>
