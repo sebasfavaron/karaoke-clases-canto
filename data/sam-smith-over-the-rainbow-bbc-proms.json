@@ -1,0 +1,127 @@
+{
+  "slug": "sam-smith-over-the-rainbow-bbc-proms",
+  "artist": "Sam Smith",
+  "title": "Over The Rainbow (BBC Proms At The Royal Albert Hall)",
+  "audio": "audio/sam-smith-over-the-rainbow-bbc-proms.mp3",
+  "duration": 316.342857,
+  "sync": "line",
+  "source": "lrclib.net",
+  "lines": [
+    {
+      "time": 13.97,
+      "text": "Somewhere over the rainbow"
+    },
+    {
+      "time": 24.12,
+      "text": "Way up high"
+    },
+    {
+      "time": 28.76,
+      "text": "There's a land that I heard of"
+    },
+    {
+      "time": 35.7,
+      "text": "Once in a lullaby"
+    },
+    {
+      "time": 42.97,
+      "text": "Somewhere over the rainbow"
+    },
+    {
+      "time": 52.33,
+      "text": "Skies are blue"
+    },
+    {
+      "time": 57.86,
+      "text": "And the dreams that you dare to dream"
+    },
+    {
+      "time": 66.36,
+      "text": "Really do come true"
+    },
+    {
+      "time": 72.01,
+      "text": "Someday I'll wish upon a star"
+    },
+    {
+      "time": 76.09,
+      "text": "And wake up where the clouds"
+    },
+    {
+      "time": 79.03,
+      "text": "Are far behind me"
+    },
+    {
+      "time": 86.12,
+      "text": "Where troubles melt like lemon drops"
+    },
+    {
+      "time": 90.67,
+      "text": "Away above the chimney tops"
+    },
+    {
+      "time": 94.32,
+      "text": "That's where you'll find me"
+    },
+    {
+      "time": 102.63,
+      "text": "Somewhere over the rainbow"
+    },
+    {
+      "time": 112.34,
+      "text": "Bluebirds fly"
+    },
+    {
+      "time": 117.93,
+      "text": "Birds fly over the rainbow"
+    },
+    {
+      "time": 125.29,
+      "text": "Why then, oh, why can't I?"
+    },
+    {
+      "time": 161.59,
+      "text": "If happy little bluebirds fly"
+    },
+    {
+      "time": 166.79,
+      "text": "Beyond the rainbow"
+    },
+    {
+      "time": 170.56,
+      "text": "Why, oh, why can't I?"
+    },
+    {
+      "time": 183.96,
+      "text": "Somewhere over the rainbow"
+    },
+    {
+      "time": 190.23,
+      "text": "Bluebirds fly"
+    },
+    {
+      "time": 194.94,
+      "text": "Birds fly over the rainbow"
+    },
+    {
+      "time": 202.24,
+      "text": "Why then, oh, why can't I?"
+    },
+    {
+      "time": 209.52,
+      "text": "Somewhere over the rainbow"
+    },
+    {
+      "time": 218.77,
+      "text": "Bluebirds fly"
+    },
+    {
+      "time": 224.38,
+      "text": "Birds fly over the rainbow"
+    },
+    {
+      "time": 231.8,
+      "text": "Why then, oh, why can't I?"
+    }
+  ]
+}
