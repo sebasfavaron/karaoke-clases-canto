@@ -148,5 +148,11 @@
     "artist": "Vicente García",
     "title": "Dulcito e Coco",
     "sync": "none"
+  },
+  {
+    "slug": "los-huayra-la-noche-sin-ti",
+    "artist": "Los Huayra",
+    "title": "La Noche Sin Tí",
+    "sync": "line"
   }
 ]
