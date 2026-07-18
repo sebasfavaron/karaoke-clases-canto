@@ -3,7 +3,664 @@
   "artist": "Silvestre y La Naranja",
   "title": "Todo Esto Existe",
   "audio": "audio/silvestre-y-la-naranja-todo-esto-existe.mp3",
-  "sync": "none",
-  "source": null,
-  "lines": []
+  "sync": "word",
+  "source": "whisperx-forced-alignment+lyrics-reconciliation",
+  "lines": [
+    {
+      "time": 17.36,
+      "text": "Ya sé",
+      "words": [
+        {
+          "time": 17.36,
+          "text": "Ya"
+        },
+        {
+          "time": 17.71,
+          "text": "sé"
+        }
+      ]
+    },
+    {
+      "time": 18.22,
+      "text": "Empezá, decime",
+      "words": [
+        {
+          "time": 18.22,
+          "text": "Empezá,"
+        },
+        {
+          "time": 20.72,
+          "text": "decime"
+        }
+      ]
+    },
+    {
+      "time": 25.73,
+      "text": "Quiero ver enredar en el aire",
+      "words": [
+        {
+          "time": 25.73,
+          "text": "Quiero"
+        },
+        {
+          "time": 26.33,
+          "text": "ver"
+        },
+        {
+          "time": 27.39,
+          "text": "enredar"
+        },
+        {
+          "time": 29.53,
+          "text": "en"
+        },
+        {
+          "time": 29.75,
+          "text": "el"
+        },
+        {
+          "time": 30.11,
+          "text": "aire"
+        }
+      ]
+    },
+    {
+      "time": 34.62,
+      "text": "Y perder la verdad de olvidarme",
+      "words": [
+        {
+          "time": 34.62,
+          "text": "Y"
+        },
+        {
+          "time": 34.9,
+          "text": "perder"
+        },
+        {
+          "time": 36.76,
+          "text": "la"
+        },
+        {
+          "time": 37.56,
+          "text": "verdad"
+        },
+        {
+          "time": 38.1,
+          "text": "de"
+        },
+        {
+          "time": 38.24,
+          "text": "olvidarme"
+        }
+      ]
+    },
+    {
+      "time": 42.89,
+      "text": "Y volver a verte distante",
+      "words": [
+        {
+          "time": 42.89,
+          "text": "Y"
+        },
+        {
+          "time": 43.69,
+          "text": "volver"
+        },
+        {
+          "time": 45.64,
+          "text": "a"
+        },
+        {
+          "time": 45.84,
+          "text": "verte"
+        },
+        {
+          "time": 47.2,
+          "text": "distante"
+        }
+      ]
+    },
+    {
+      "time": 48.6,
+      "text": "Decime si fue real",
+      "words": [
+        {
+          "time": 48.6,
+          "text": "Decime"
+        },
+        {
+          "time": 58.19,
+          "text": "si"
+        },
+        {
+          "time": 58.77,
+          "text": "fue"
+        },
+        {
+          "time": 59.13,
+          "text": "real"
+        }
+      ]
+    },
+    {
+      "time": 61.06,
+      "text": "Y si fue y será",
+      "words": [
+        {
+          "time": 61.06,
+          "text": "Y"
+        },
+        {
+          "time": 61.28,
+          "text": "si"
+        },
+        {
+          "time": 61.8,
+          "text": "fue"
+        },
+        {
+          "time": 63.62,
+          "text": "y"
+        },
+        {
+          "time": 63.66,
+          "text": "será"
+        }
+      ]
+    },
+    {
+      "time": 69.71,
+      "text": "Ahora sé entender",
+      "words": [
+        {
+          "time": 69.71,
+          "text": "Ahora"
+        },
+        {
+          "time": 70.63,
+          "text": "sé"
+        },
+        {
+          "time": 72.11,
+          "text": "entender"
+        }
+      ]
+    },
+    {
+      "time": 74.44,
+      "text": "Nadie me persigue",
+      "words": [
+        {
+          "time": 74.44,
+          "text": "Nadie"
+        },
+        {
+          "time": 75.26,
+          "text": "me"
+        },
+        {
+          "time": 76.12,
+          "text": "persigue"
+        }
+      ]
+    },
+    {
+      "time": 79.1,
+      "text": "Ahora sé entender",
+      "words": [
+        {
+          "time": 79.1,
+          "text": "Ahora"
+        },
+        {
+          "time": 79.8,
+          "text": "sé"
+        },
+        {
+          "time": 81.28,
+          "text": "entender"
+        }
+      ]
+    },
+    {
+      "time": 83.67,
+      "text": "Nadie me persigue",
+      "words": [
+        {
+          "time": 83.67,
+          "text": "Nadie"
+        },
+        {
+          "time": 85.35,
+          "text": "me"
+        },
+        {
+          "time": 85.41,
+          "text": "persigue"
+        }
+      ]
+    },
+    {
+      "time": 88.19,
+      "text": "Soy solo contra mi propio mar",
+      "words": [
+        {
+          "time": 88.19,
+          "text": "Soy"
+        },
+        {
+          "time": 98.07,
+          "text": "solo"
+        },
+        {
+          "time": 98.15,
+          "text": "contra"
+        },
+        {
+          "time": 98.29,
+          "text": "mi"
+        },
+        {
+          "time": 98.35,
+          "text": "propio"
+        },
+        {
+          "time": 98.47,
+          "text": "mar"
+        }
+      ]
+    },
+    {
+      "time": 106.26,
+      "text": "Ayer",
+      "words": [
+        {
+          "time": 106.26,
+          "text": "Ayer"
+        }
+      ]
+    },
+    {
+      "time": 121.85,
+      "text": "Busqué entre la gente",
+      "words": [
+        {
+          "time": 121.85,
+          "text": "Busqué"
+        },
+        {
+          "time": 122.73,
+          "text": "entre"
+        },
+        {
+          "time": 123.47,
+          "text": "la"
+        },
+        {
+          "time": 123.77,
+          "text": "gente"
+        }
+      ]
+    },
+    {
+      "time": 128.46,
+      "text": "Quizás fue la honra decirte",
+      "words": [
+        {
+          "time": 128.46,
+          "text": "Quizás"
+        },
+        {
+          "time": 129.32,
+          "text": "fue"
+        },
+        {
+          "time": 130.08,
+          "text": "la"
+        },
+        {
+          "time": 130.83,
+          "text": "honra"
+        },
+        {
+          "time": 132.35,
+          "text": "decirte"
+        }
+      ]
+    },
+    {
+      "time": 133.59,
+      "text": "Que no sé qué hice mal",
+      "words": [
+        {
+          "time": 133.59,
+          "text": "Que"
+        },
+        {
+          "time": 137.58,
+          "text": "no"
+        },
+        {
+          "time": 138.12,
+          "text": "sé"
+        },
+        {
+          "time": 138.74,
+          "text": "qué"
+        },
+        {
+          "time": 139.27,
+          "text": "hice"
+        },
+        {
+          "time": 140.34,
+          "text": "mal"
+        }
+      ]
+    },
+    {
+      "time": 141.66,
+      "text": "Hablame",
+      "words": [
+        {
+          "time": 141.66,
+          "text": "Hablame"
+        }
+      ]
+    },
+    {
+      "time": 145.36,
+      "text": "No puedo dejar de mirarte",
+      "words": [
+        {
+          "time": 145.36,
+          "text": "No"
+        },
+        {
+          "time": 145.6,
+          "text": "puedo"
+        },
+        {
+          "time": 148.28,
+          "text": "dejar"
+        },
+        {
+          "time": 154.57,
+          "text": "de"
+        },
+        {
+          "time": 154.63,
+          "text": "mirarte"
+        }
+      ]
+    },
+    {
+      "time": 156.56,
+      "text": "Decime si fue real",
+      "words": [
+        {
+          "time": 156.56,
+          "text": "Decime"
+        },
+        {
+          "time": 160.91,
+          "text": "si"
+        },
+        {
+          "time": 161.47,
+          "text": "fue"
+        },
+        {
+          "time": 161.83,
+          "text": "real"
+        }
+      ]
+    },
+    {
+      "time": 163.73,
+      "text": "Y si fue y será",
+      "words": [
+        {
+          "time": 163.73,
+          "text": "Y"
+        },
+        {
+          "time": 163.95,
+          "text": "si"
+        },
+        {
+          "time": 164.51,
+          "text": "fue"
+        },
+        {
+          "time": 165.45,
+          "text": "y"
+        },
+        {
+          "time": 166.11,
+          "text": "será"
+        }
+      ]
+    },
+    {
+      "time": 172.44,
+      "text": "Ahora sé entender",
+      "words": [
+        {
+          "time": 172.44,
+          "text": "Ahora"
+        },
+        {
+          "time": 172.94,
+          "text": "sé"
+        },
+        {
+          "time": 174.63,
+          "text": "entender"
+        }
+      ]
+    },
+    {
+      "time": 177.11,
+      "text": "Nadie me persigue",
+      "words": [
+        {
+          "time": 177.11,
+          "text": "Nadie"
+        },
+        {
+          "time": 177.95,
+          "text": "me"
+        },
+        {
+          "time": 178.83,
+          "text": "persigue"
+        }
+      ]
+    },
+    {
+      "time": 181.81,
+      "text": "Ahora sé entender",
+      "words": [
+        {
+          "time": 181.81,
+          "text": "Ahora"
+        },
+        {
+          "time": 182.16,
+          "text": "sé"
+        },
+        {
+          "time": 183.94,
+          "text": "entender"
+        }
+      ]
+    },
+    {
+      "time": 186.4,
+      "text": "Nadie me persigue",
+      "words": [
+        {
+          "time": 186.4,
+          "text": "Nadie"
+        },
+        {
+          "time": 188.64,
+          "text": "me"
+        },
+        {
+          "time": 188.7,
+          "text": "persigue"
+        }
+      ]
+    },
+    {
+      "time": 190.91,
+      "text": "Soy solo contra mi propio mar",
+      "words": [
+        {
+          "time": 190.91,
+          "text": "Soy"
+        },
+        {
+          "time": 200.4,
+          "text": "solo"
+        },
+        {
+          "time": 200.5,
+          "text": "contra"
+        },
+        {
+          "time": 200.64,
+          "text": "mi"
+        },
+        {
+          "time": 200.7,
+          "text": "propio"
+        },
+        {
+          "time": 200.82,
+          "text": "mar"
+        }
+      ]
+    },
+    {
+      "time": 206.31,
+      "text": "Ahora sé que entendés",
+      "words": [
+        {
+          "time": 206.31,
+          "text": "Ahora"
+        },
+        {
+          "time": 206.43,
+          "text": "sé"
+        },
+        {
+          "time": 206.49,
+          "text": "que"
+        },
+        {
+          "time": 206.87,
+          "text": "entendés"
+        }
+      ]
+    },
+    {
+      "time": 209.27,
+      "text": "Todo esto existe",
+      "words": [
+        {
+          "time": 209.27,
+          "text": "Todo"
+        },
+        {
+          "time": 210.25,
+          "text": "esto"
+        },
+        {
+          "time": 211.41,
+          "text": "existe"
+        }
+      ]
+    },
+    {
+      "time": 213.71,
+      "text": "Y no voy a tener miedo de decirte",
+      "words": [
+        {
+          "time": 213.71,
+          "text": "Y"
+        },
+        {
+          "time": 213.93,
+          "text": "no"
+        },
+        {
+          "time": 214.56,
+          "text": "voy"
+        },
+        {
+          "time": 215.42,
+          "text": "a"
+        },
+        {
+          "time": 216.2,
+          "text": "tener"
+        },
+        {
+          "time": 218.04,
+          "text": "miedo"
+        },
+        {
+          "time": 219.78,
+          "text": "de"
+        },
+        {
+          "time": 220.16,
+          "text": "decirte"
+        }
+      ]
+    },
+    {
+      "time": 222.74,
+      "text": "Que soy yo",
+      "words": [
+        {
+          "time": 222.74,
+          "text": "Que"
+        },
+        {
+          "time": 222.82,
+          "text": "soy"
+        },
+        {
+          "time": 226.57,
+          "text": "yo"
+        }
+      ]
+    },
+    {
+      "time": 226.63,
+      "text": "Contra mi propio mar",
+      "words": [
+        {
+          "time": 226.63,
+          "text": "Contra"
+        },
+        {
+          "time": 227.15,
+          "text": "mi"
+        },
+        {
+          "time": 232.15,
+          "text": "propio"
+        },
+        {
+          "time": 232.27,
+          "text": "mar"
+        }
+      ]
+    }
+  ]
 }
