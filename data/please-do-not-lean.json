@@ -1,9 +1,150 @@
 {
   "slug": "please-do-not-lean",
-  "artist": null,
+  "artist": "Daniel Caesar ft. BADBADNOTGOOD",
   "title": "Please Do Not Lean",
   "audio": "audio/please-do-not-lean.mp3",
-  "sync": "none",
-  "source": null,
-  "lines": []
+  "sync": "line",
+  "source": "lrclib.net",
+  "lines": [
+    {
+      "time": 1.25,
+      "text": "Sweet Emily, my bride to be"
+    },
+    {
+      "time": 4.24,
+      "text": "Just how long will you stand next to me?"
+    },
+    {
+      "time": 8.66,
+      "text": "For we both know, it's more than a load"
+    },
+    {
+      "time": 11.84,
+      "text": "For you to bear"
+    },
+    {
+      "time": 15.7,
+      "text": "It'd break my heart but I'd understand if you'd"
+    },
+    {
+      "time": 19.76,
+      "text": "Leave me for another man with a little"
+    },
+    {
+      "time": 23.77,
+      "text": "Less on his mind, less on his plate"
+    },
+    {
+      "time": 26.71,
+      "text": "Less in his brain"
+    },
+    {
+      "time": 31.18,
+      "text": "Please do not lean on me, I'm unstable"
+    },
+    {
+      "time": 38.65,
+      "text": "You're all you need, I've seen it, you're able"
+    },
+    {
+      "time": 46.01,
+      "text": "Please do not lean on me, I'm unstable"
+    },
+    {
+      "time": 53.43,
+      "text": "You're all you need, I've seen it, you're able"
+    },
+    {
+      "time": 61.31,
+      "text": "Sex in the air, deep in despair"
+    },
+    {
+      "time": 64.37,
+      "text": "Could you please act like you're unaware?"
+    },
+    {
+      "time": 68.39,
+      "text": "But we both know I'm just a dog chasin' his bone"
+    },
+    {
+      "time": 75.9,
+      "text": "Please understand, I'm just a man that's nearly figured out his master plan"
+    },
+    {
+      "time": 83.59,
+      "text": "Just stick around and you gon' see"
+    },
+    {
+      "time": 86.52,
+      "text": "I'm worth every pound"
+    },
+    {
+      "time": 91.03,
+      "text": "Please do not lean on me, I'm unstable"
+    },
+    {
+      "time": 98.68,
+      "text": "You're all you need, I've seen it, you're able"
+    },
+    {
+      "time": 106.15,
+      "text": "Please do not lean on me, I'm unstable"
+    },
+    {
+      "time": 113.34,
+      "text": "You're all you need, I've seen it, you're able"
+    },
+    {
+      "time": 136.0,
+      "text": "The more that we both try to fight it"
+    },
+    {
+      "time": 140.09,
+      "text": "The harder it's gon' be"
+    },
+    {
+      "time": 143.42000000000002,
+      "text": "I wish that we could stand united, instead we're crumblin'"
+    },
+    {
+      "time": 151.18,
+      "text": "I know that you gon' always love me"
+    },
+    {
+      "time": 154.65,
+      "text": "In spite of things you've seen"
+    },
+    {
+      "time": 158.32,
+      "text": "In spite of things you've heard me say"
+    },
+    {
+      "time": 162.01,
+      "text": "No matter how obscene"
+    },
+    {
+      "time": 166.12,
+      "text": "If I am the sky (if I am the sky, if I am the sky), you are the sea"
+    },
+    {
+      "time": 172.49,
+      "text": "Starin' back at me... (Me...)"
+    },
+    {
+      "time": 181.47,
+      "text": "If I am the sky (if I am the sky, if I am the sky), you are the sea"
+    },
+    {
+      "time": 186.95,
+      "text": "Starin' back at me... (Me...)"
+    },
+    {
+      "time": 196.84,
+      "text": "If I am the sky (if I am the sky, if I am the sky), you are the sea"
+    },
+    {
+      "time": 201.81,
+      "text": "Starin' back at me... (Me...)"
+    }
+  ]
 }
